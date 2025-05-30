@@ -42,4 +42,6 @@ Ce projet a été réalisé dans le cadre de la SAE S1.02 - Lecture et écriture
 - [Axel COULET](https://github.com/axcou)  
 - [Ayat SELLAM](https://github.com/AyawithaT)  
 
+## Licence
 
+Ce projet est proposé à des fins pédagogiques uniquement. Reproduction interdite sans autorisation.
